@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@readyplayerme/react-avatar-creator": "^0.5.0",
+    "@readyplayerme/visage": "^5.1.0",
+    "axios": "^1.6.8",
+    "next": "^14.1.4",
+    "openai": "^4.33.0",
+    "reac": "^0.0.0",
+    "react": "^18.2.0",
+    "react-icons": "^5.0.1"
+  }
+}
